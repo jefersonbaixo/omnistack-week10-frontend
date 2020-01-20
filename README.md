@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Omnistack Week 10
+
+A project developed during the Omnistack Week 10.
+It's a simple app that registry and find devs near to you.
+
+## Backend Address
+
+You can change the backend address at src/services/api.js
+
+## Dependencies
+
+"@testing-library/jest-dom": "^4.2.4",
+"@testing-library/react": "^9.3.2",
+"@testing-library/user-event": "^7.1.2",
+"axios": "^0.19.1",
+"react": "^16.12.0",
+"react-dom": "^16.12.0",
+"react-scripts": "3.3.0"
+
 ## Available Scripts
 
 In the project directory, you can run:
